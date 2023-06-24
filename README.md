@@ -1,0 +1,2 @@
+## Introduction and purpose
+This software is developed with instructor of Java101 course on <a href="https://patika.dev">patika.dev</a>. Aim of the project is to find harmonic series of entered number.
